@@ -1,5 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> Hello Yuvraj...New code updated.... New entry updated............... </h2>
-<h1> My CICD Pipeline is running E2E................ </h1>
+<h1> MY FIRST CICD PROJECT IS RUNNING ON AWS </h1>
